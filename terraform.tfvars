@@ -1,0 +1,7 @@
+configuration_file_path         = ""
+default_location                = "westeurope"
+default_postfix                 = "sea-alz"
+root_parent_management_group_id = ""
+subscription_id_connectivity    = "8855b207-203f-485f-8d34-278281cf2ed6"
+subscription_id_identity        = "a4d4da02-ed3c-48ed-ac1a-1961e1b6f24c"
+subscription_id_management      = "800615ec-b39b-4450-a1c0-e54e12b5cb77"
